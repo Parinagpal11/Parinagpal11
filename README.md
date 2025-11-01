@@ -1,5 +1,5 @@
 ## Hi, I'm Pari Nagpal 👋
-🔭 Currently a Software QA Intern at Pragmatyc, Nagpur and passionate about Technology and its applications.<br/>
+🔭 Currently working on ##commit##ment issues — with Git. Also an MS Student in Computer Engineering @ Iowa State University <br/>
 
 🌱 I enjoy working at the intersection of software engineering, machine learning, and cloud infrastructure.<br/>
 
