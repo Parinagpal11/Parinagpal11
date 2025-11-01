@@ -1,5 +1,5 @@
 ## Hi, I'm Pari Nagpal 👋
-🔭 Currently working on ##commit ment issues — with Git. Also an MS Student in Computer Engineering @ Iowa State University <br/>
+🔭 Currently working on commitment issues — with Git. Also an MS Student in Computer Engineering @ Iowa State University <br/>
 
 🌱 I enjoy working at the intersection of software engineering, machine learning, and cloud infrastructure.<br/>
 
